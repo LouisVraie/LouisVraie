@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Louis Vraie a french developer of 20 years old, who's currently studying web and software programming.
+I'm Louis Vraie a 20 years old french developer, who's currently studying web and software programming.
 
 I love video games 🎮, electronic music 🎵 and aerospace 🚀.
 
@@ -16,8 +16,7 @@ Here are some languages and programming tools I know/use :
 <img align="left" alt="bash" width="30px"  style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="git" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
+<img align="left" alt="git" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
 <!--
 **LouisVraie/LouisVraie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
