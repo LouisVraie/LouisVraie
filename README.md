@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Louis Vraie a 20 years old french developer, who's currently studying web and software programming.
+I'm Louis Vraie a 21 years old french developer, who's currently studying web and software programming.
 
 I love video games 🎮, electronic music 🎵 and aerospace 🚀.
 
